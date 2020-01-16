@@ -10,6 +10,7 @@ Python is dynamic and works on several different platforms. It can handle big da
 ## Links
 - [Python Documentation](https://docs.python.org/3/) separates its documentation by version and goes through the basic installation process.
 It also has wonderful reference guides for language and syntax, along with a glossary for when you encounter terms and do not know what they mean.
+  - There is also a wonderful [Python Standard Library](https://docs.python.org/3/library/index.html) which may be helpful to reference back to.
 - [W3Schools](https://www.w3schools.com/python/default.asp) is a great site that takes you through Python step-by-step with examples and exercises.
 You have to pay for a certificate, but the tutorials and exercises are **free**. They also offer several different programming languages!
 - [Real Python](https://www.realpython.com) has some of the most comprehensive and easy-to-read Python tutorials and tip sheets out there. 
