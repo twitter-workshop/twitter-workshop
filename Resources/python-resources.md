@@ -7,6 +7,9 @@ It is very popular as it emphasized readability and it is colloquially known as 
 Notably, it is used in software development, web development, mathematics, and system scripting.
 Python is dynamic and works on several different platforms. It can handle big data and is generally very quick.
 
+### What is JSON?
+JSON is **JavaScript Object Notation**. It is a more readable format for structuring data. When scraping tweets, all the objects and the keys will be returned in JSON. For more on JSON, you can read their [documentation on their website](https://www.json.org/json-en.html).
+
 ## Links
 - [Python Documentation](https://docs.python.org/3/) separates its documentation by version and goes through the basic installation process.
 It also has wonderful reference guides for language and syntax, along with a glossary for when you encounter terms and do not know what they mean.
